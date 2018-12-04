@@ -1,6 +1,7 @@
 # hello-world
 just for experiment
 
-regular person
+hi people 
+i'm regular person
 still breathing 
 struggle in life
